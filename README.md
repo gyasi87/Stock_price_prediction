@@ -1,8 +1,8 @@
 # Stock Market Analysis for Tech Stocks
 
-In this project, we'll analyse data from the stock market for some technology stocks. 
+In this project, I will analyze data from the stock market for some technology stocks. 
 
-We'll use Pandas to extract and analyze the information, visualize it, and look at different ways to analyse the risk of a stock, based on its performance history. 
+I will use Pandas to extract and analyze the information, visualize it, and look at different ways to analyze the risk of a stock, based on its performance history. 
 
 Here are the questions we'll try to answer:
 
